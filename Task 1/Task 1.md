@@ -8,6 +8,7 @@
 <h3>
 Below given tasks are very basic in nature. They are to make you comfortable with how to write code in Java using variables, if/else and loops, printing output at console using different methods.
 <br><br><hr>
+
 1.1 
 Initialize a variable n with some +ve integer value. Then create implement logic to print first n prime numbers on console. <br><br>
 
